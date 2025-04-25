@@ -4,4 +4,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriangarrote-zh&title=Commits" alt="adriangarrote-zh" /></a> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adriangarrote-zh)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adriangarrote-zh&" alt="adriangarrote-zh" /></p>
